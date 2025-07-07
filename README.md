@@ -36,6 +36,8 @@ Includes three distinct styles: **Blue Circles**, **Pink Pills**, and **Orange S
 
 🔗 **GitHub Pages:**
 
+[https://gauravjlad.github.io/Reusable-Pagination](https://gauravjlad.github.io/Reusable-Pagination)
+
 ---
 
 ## 📧 Let’s Connect 🧮
